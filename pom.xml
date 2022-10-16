@@ -11,10 +11,10 @@
     <groupId>com.usa</groupId>
     <artifactId>Cinemarental</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Cinemarental</name>
-    <description>Cinemarental</description>
+    <name>Cinema</name>
+    <description>Cinema</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
